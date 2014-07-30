@@ -1,0 +1,15 @@
+div.bp {
+	margin-top: 15px;
+	margin-bottom: 30px;
+	width: 950px;
+}
+
+.bp p {
+	margin: 0;
+}
+.bp img {
+	width: 950px;
+	position: relative;
+	margin-left: -125px;
+}
+
