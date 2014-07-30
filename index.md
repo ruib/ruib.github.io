@@ -1,5 +1,5 @@
 ---
-title: let me think..
+title: let me think
 layout: page
 ---
 # Hello World!
