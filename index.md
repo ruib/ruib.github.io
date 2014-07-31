@@ -1,10 +1,9 @@
 ---
-title: let me think
+title: RB
 layout: page
 ---
-# Hello World!
 
-Saying hello to the world. More to come later.
+Hello, you
 
 <ul class="listing">
 {% for post in site.posts %}
